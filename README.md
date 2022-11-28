@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on building web applications using React
 - 📫 How to reach me ..coming soon
+- am transitioning to frontend developement
 
 <!---
 lioswin/lioswin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
