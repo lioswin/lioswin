@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lioswin
 - 👀 Have been playing ctfs and hacking for the past two years
-- I also know code , cant say am a programmer nor coder ,but I can read code and understand it
+- I can read,write and understand code .
 lioswin/lioswin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
