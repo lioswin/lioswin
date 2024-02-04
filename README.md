@@ -1,11 +1,6 @@
 - 👋 Hi, I’m @lioswin
 - 👀 Have been playing ctfs and hacking for the past two years
-- 🌱 I’m currently learning React and working on becoming a good software developer
-- 💞️ I’m looking to collaborate on building web applications and any tech related issue
-- 📫 How to reach me ..coming soon
-⚡ Fun fact: ... I am Rite🃏
-
-<!---
+- I also know code , cant say am a programmer nor coder ,but I can read code and understand it
 lioswin/lioswin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
